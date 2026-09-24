@@ -1,6 +1,6 @@
 # Auditoria de Acessibilidade
 
-| # | **Onde está** | **O que está errado** | **Princípio POUR** | **Critério(s) WCAG (nº)** | **Porque isso importa para um usuário real** |
+| # | **Onde está** | **O que está errado** | **Princípio POUR** | **Critério(s) WCAG (Nº)** | **Porque isso importa para um usuário real** |
 |---|---|---|---|---|---|
 | **1** | **index.html - linha 2** | Idioma da página não referenciado | R - Robusto | 3.1.1 - Idioma da página (Language of Page) | Um leitor de tela pode não identificar corretamente o idioma do conteúdo, prejudicando a pronúncia e a compreensão do texto. |
 | **2** | **index.html - linhas 12, 25, 34, 43, 52, 61** | Imagens sem texto alternativo | P - Perceptível | 1.1.1 - Conteúdo não textual (Non-text Content) | O usuário deve conseguir compreender o conteúdo ou a finalidade da imagem mesmo sem enxergá-la. |
