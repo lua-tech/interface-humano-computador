@@ -14,6 +14,6 @@
 
 1) O problema mais difícil de perceber foi o uso de **div como botão**, pois visualmente ela cumpre sua função, mas não há semântica e suporte adequado à navegação por teclado e tecnologias assistivas.
 
-2) A substituição da div por button se relaciona ao critério **4.1.2 — Nome, Função, Valor**, de conformidade Nível A, pois garante que o elemento tenha uma função reconhecida por tecnologias assistivas.
+2) A substituição da div por button se relaciona ao critério **4.1.2: Nome, Função, Valor**, de conformidade Nível A, pois garante que o elemento tenha uma função reconhecida por tecnologias assistivas.
 
 3) Caso houvesse mais tempo, cumpriria o **desafio 9** de uso de unidades relativas (rem/em) e faria o teste da extensão **LightHouse**, cujo funcionamento do software não compreendi completamente.
