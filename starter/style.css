@@ -5,8 +5,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  color: #aaaaaa;
-  background: #ffffff;
+  color: #4e321d;
+  background: #fff8f0;
 }
 
 .topo {
@@ -18,13 +18,13 @@ body {
 }
 
 .logo {
-  height: 40px;
+  height: 50px;
 }
 
 .titulo {
-  font-size: 28px;
+  font-size: 35px;
   font-weight: bold;
-  color: #ffffff;
+  color: #f3eadd;
 }
 
 .menu-links {
@@ -34,7 +34,7 @@ body {
 }
 
 .menu-links a {
-  color: #e0c9a6;
+  color: #f3eadd;
   text-decoration: none;
 }
 
@@ -61,25 +61,26 @@ body {
 }
 
 .nome-prato {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: #333333;
 }
 
 .descricao {
-  font-size: 14px;
-  color: #aaaaaa;
+  font-size: 15px;
+  color: #97613d;
 }
 
 .preco {
   font-size: 14px;
-  color: #aaaaaa;
+  color: #97613d;
 }
 
 .tag-vegetariano {
-  color: #4caf50;
-  font-size: 12px;
-  font-weight: bold;
+  color: #555555;
+  font-size: 15px;
+  font-weight: lighter;
+  font-style: italic;
 }
 
 .botao-carrinho {
@@ -89,6 +90,7 @@ body {
   background: #6b4226;
   color: #ffffff;
   border-radius: 4px;
+  border-color: #97613d;
   cursor: pointer;
   font-size: 14px;
 }
@@ -107,13 +109,26 @@ body {
   font-size: 14px;
 }
 
-.rodape {
-  background: #f5f5f5;
+.footer {
+  background: #fff8f0;
   padding: 16px 24px;
   text-align: center;
+  font-size: 15px;
 }
 
 .observacoes {
   font-size: 10px;
-  color: #aaaaaa;
+  color: #97613d;
+  font-size: 15px;
+  font-style: italic;
+}
+
+p {
+  color: #97613d;
+  font-size: 15px;
+}
+
+h1 {
+  font-size: 25px;
+  color: #4e321d;
 }
